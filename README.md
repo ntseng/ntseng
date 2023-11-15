@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Nathaniel Tseng
 
+- 💬 I'm currently open to work!
 - 🔭 I’m currently working on a game: [*Prophets of the Labyrinth*](https://github.com/Imaginary-Horizons-Productions/prophets-of-the-labyrinth)
 - 🎮 In-game I go by [Arcane_ish](https://www.twitch.tv/arcane_ish)
 
@@ -30,7 +31,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning fullstack software engineering
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
 [![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntseng)](https://github.com/anuraghazra/github-readme-stats)
